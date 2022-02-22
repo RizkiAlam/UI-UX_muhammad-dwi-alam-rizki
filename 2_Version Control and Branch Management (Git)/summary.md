@@ -35,7 +35,7 @@ Penggabungan antara  branch satu ke branch lainya untuk bisa menambahkan perubah
 
 
 ## Tugas
-### 1. Membuat Jembatan
+### 1. Membuat Repositori
 Pada tugas ini, membuat 4 branch dengan branch master 1, branch develop 1, dan 2 branch penambah fitur.
 
 output:
