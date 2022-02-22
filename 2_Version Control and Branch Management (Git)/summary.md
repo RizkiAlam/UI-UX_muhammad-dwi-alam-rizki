@@ -39,7 +39,7 @@ Penggabungan antara  branch satu ke branch lainya untuk bisa menambahkan perubah
 Pada tugas ini, membuat 4 branch dengan branch master 1, branch develop 1, dan 2 branch penambah fitur.
 
 link hasil pratikum :
-![link.txt](./pratikum/link.txt)
+![link](./pratikum/link.txt)
 
 output:
 
