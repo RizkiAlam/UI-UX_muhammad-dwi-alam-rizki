@@ -34,7 +34,7 @@ Branch yang meminta kepada master atau main dapat menarik perubahan.
 Penggabungan antara  branch satu ke branch lainya untuk bisa menambahkan perubahan pada branch master atau main.
 
 
-## Tugas
+## Task
 ### 1. Membuat Repositori
 Pada tugas ini, membuat 4 branch dengan branch master 1, branch develop 1, dan 2 branch penambah fitur.
 
