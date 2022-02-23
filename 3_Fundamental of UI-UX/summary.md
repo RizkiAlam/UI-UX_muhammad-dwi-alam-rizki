@@ -55,7 +55,7 @@ Pada task di section ke 3 ini. Mencari contoh user interface Dekstop/Aplikasi da
 
 Berikut kode hasil dari praktikum ini.
 
-[linkgoogledoc.txt](./pratikum/linkgoogledoc.txt)
+[linkgoogledoc.txt](./praktikum/linkgoogledoc.txt)
 
 output:
 
