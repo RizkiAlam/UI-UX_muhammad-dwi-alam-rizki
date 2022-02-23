@@ -55,8 +55,8 @@ Pada task di section ke 3 ini. Mencari contoh user interface Dekstop/Aplikasi da
 
 Berikut kode hasil dari praktikum ini.
 
-[link google doc.txt](./pratikum/link google doc.txt)
+[linkgoogledoc.txt](./pratikum/linkgoogledoc.txt)
 
 output:
 
-![SS2_3_Fundamental of UI-UX](./screenshot/SS2_3_Fundamental of UI-UX.jpg)
+![SS2](./screenshots/SS2.jpg)
