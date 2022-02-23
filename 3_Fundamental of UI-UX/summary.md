@@ -50,7 +50,7 @@ Text atau button dengan gambaran yang sudah tidak kasar lagi.
 
 
 ## Task
-### 1. Membuat Jembatan
+### 1. Mencari User Interface
 Pada task di section ke 3 ini. Mencari contoh user interface Dekstop/Aplikasi dan Mengidentifikasi usernya.
 
 Berikut kode hasil dari praktikum ini.
