@@ -1,5 +1,0 @@
-Link Projeknya :
-https://www.figma.com/file/g873AERKHPwBTjjRVAAW8o
-
-Target usernya, untuk para pembisnis, mahasiswa dan orang yang menggunakan aplikasi ini di Smarthphone untuk bisa saling mengirim email 
-satu device ke device lain.
