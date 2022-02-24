@@ -59,4 +59,4 @@ Berikut kode hasil dari praktikum ini.
 
 output:
 
-![SS2](./screenshots/SS2.jpg)
+![SS](./screenshots/SS.jpeg)
