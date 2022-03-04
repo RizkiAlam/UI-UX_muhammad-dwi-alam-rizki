@@ -47,19 +47,19 @@ ada 5 Jenit layout pada Figma yaitu :
 
 
 ## Task
-## 1. Membuat 2 Dummy user Persona
-Pada task ini, membuat 2 Dummy User Persona dalam 1 studi kasus :
+## 1. Meneruskan Tugas Kemarin
+Pada task ini, Meneruskan tugas kemarin dengan menggunakan sistem Auto Layout supaya Responsive :
 
 Berikut hasil dari praktikum ini.
 
-[linkgoogledoc.txt](./praktikum/linkgoogledoc.txt)
+[linkfigma.txt](./praktikum/linkfigma.txt)
 
 output:
 
-User Persona 1
+Form Loading Screen
 
-![user_persona](./screenshots/user_persona.jpg)
+![ss1.jpeg](./screenshots/ss1.jpeg)
 
-User Persona 2
+Form login
 
-![user_persona2](./screenshots/user_persona2.jpg)
+![ss2.jpeg](./screenshots/ss2.jpeg)
