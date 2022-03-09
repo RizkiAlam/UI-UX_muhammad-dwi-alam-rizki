@@ -38,7 +38,8 @@ Dokumentasi Sebagai dokumentasi setiap ada perubahan dari interface
     Dapat bisa melakukan Chat secara live dengan menekan tombol "/" di keyboard
 
 ### - Observasi
-    Ketika berkolaborasi secara langsung kita bisa melihat dan mengikuti pergerakan mouse orang lain secara realtime dengan melakukan klik pada icon orang tersebut
+    Ketika berkolaborasi secara langsung kita bisa melihat dan mengikuti pergerakan mouse orang lain secara realtime dengan 
+    melakukan klik pada icon orang tersebut
 
 ### - Page Management
     Memisahkan halaman dimana kita sebagai designer melakukan explorasi dan hasil final sebuah desain
