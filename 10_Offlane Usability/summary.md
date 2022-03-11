@@ -50,8 +50,8 @@ dari user ini agar kita tau insighnya
 - Menyiapkan Team
 
 ## Task
-## 1. Membuat Prototype 
-Pada task ini, Hanya membuat prototype yang sudah ada dan bebas menggunakan animation/transisi yang tersedia di Figma 
+## 1. Membuat Scenario Usability Testing
+Pada task ini, Membuat Scenario Usability Testing dengan menggunakan tugas prototype sebagai acuan dari tugasnya
 
 Berikut hasil dari praktikum ini.
 
