@@ -59,7 +59,7 @@ Berikut hasil dari praktikum ini.
 
 output:
 
-![ss](./screenshots/ss.png)
+![ss](./screenshots/ss.jpg)
 
 
 
