@@ -2,41 +2,34 @@
 
 ## Resume
 Dalam materi ini, mempelajari:
-1. Kelebihan Usability Testing
-2. Persiapan Online Usability Testing
-3. Tips Online Usability Testing
+1. Apa itu FrondEnd
+2. Apa itu HTML
+3. Kegunaan HTML beserta Editor
 
 
-## Kelebihan Usability Testing
-- Dapat menemukan user dengan mudah dimana saja
-- Lebih Cepat dan lebih Murah biaya
-- Jangkauan user yang sangat luas
-- Lebih Efisien
+## Apa itu FrondEnd
+FrondEnd adalah sebuah bagian dari website yang membuat tampilan menarik kepada user
 
-## Persiapan Online Usability Testing
-Adapun beberapa hal yang harus di persiapkan sebelum melakukan Online Usability testing seperti :
-- Persiapan
-- Usability Testing
-- Mengelola Insight Usability Testing
+## Apa itu HTML
+HTML ( Hypertext Markup Language ) adalah sebuah standar yang di gunakansecara luas untuk menampilkan halaman web atau bisa juga di artikan suatu bahasa yang menggunakan tanda-
+tanda tertentu (tag) untuk menyatakan kode-kode yang harus ditafsirkan oleh browser agar halaman tersebut dapat ditampilkan secara benar
 
-dan biasanya Tool yang di gunakan dalam membuat Online Usability Testing seperti :
-- Figma ( Figma sebagai Desain Interface )
-- Maze ( Sebagai Testing Projek untuk user secara online )
+## Kegunaan HTML beserta Editor
+- Membuat Struktur dari halaman website
+- Mengatur tampilan dan isi dari halaman web
+- Membuat tabel dengan tag HTML table
+- Membuat form HTMl
+- Membuat gambar dengan canvas
+- Mempublikasikan halaman website secara online
 
-Adapun persiapanya seperti :
-- Membuat clickable prototype pada desain interface di figma kita
-- Setup Block Skenario di Maze
-- Jalankan dan Share link online usability Testing kepada user 
+dalam membuat website dengan HTML kita harus tau juga editor yang di gunakan untuk menulis source code dan tag tersebut, contoh dari editornya ialah :
+- Notepad
+- Visual Studio Code ( Rekomendasi )
+-  Sublime Text
+- Notepad ++
+- Atom
 
-## Tips Online Usability Testing
-- Mulai dari tujuan yang simple
-- Berikan 1 tugas dalam sekali waktu
-- Tugas yang di berikan pastikan realistis dan menyerupai kehidupan sebenarnya
-- Menambahkan Pertanyaan di tengah - tengah skenario
-- Buat Alternative 
-- Berikan konteks yang tepat
-- Rule of 5 Second Impression
-
+dan 
 ## Task
 ## 1. Menjalankan Online Usability Testing di Maze
 Pada task ini, Menjalankan dari hasil Tugas Skenario sebelumnya menggunakan Maze.
