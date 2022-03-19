@@ -38,11 +38,11 @@ Pada task ini, Menjalankan dari hasil Tugas Skenario sebelumnya menggunakan Maze
 
 Berikut hasil dari praktikum ini.
 
-[linkmaze.txt](./praktikum/linkmaze.txt)
+[linkfigma.txt](./praktikum/linkfigma.txt)
 
 output:
 
-![ss](./screenshots/ss.png)
+![ss](./screenshots/ss.jpg)
 
 
 
