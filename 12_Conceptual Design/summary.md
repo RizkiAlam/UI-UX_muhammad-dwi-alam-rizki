@@ -33,8 +33,12 @@ Dengan melakukan ini untuk dapat menarik para pengguna user yang berada di aplik
 - Monetization
 
 ## Task
-## 1. Menjalankan Online Usability Testing di Maze
-Pada task ini, Menjalankan dari hasil Tugas Skenario sebelumnya menggunakan Maze.
+## 1. Membuat Sebuah Product Seperti Toko Online / E Commerce
+Pada task ini, ada beberapa Poin dalam membuat Toko online / E Commerce
+1. Buatlah Sebuah detail product sebuah toko online
+2. Buatlah tampilan notifikasi ketika telah berhasil untuk membeli
+3. Pastikan detail product kalian memiliki detail root seperti gambar di bawah
+4. Buatlah Sebuah prototyping dari halaman yang telah kalian buat. Sehingga, menampilkan animasi yang menarik untuk user
 
 Berikut hasil dari praktikum ini.
 
