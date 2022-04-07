@@ -1,9 +1,9 @@
-# 19 Testing A/B and Goodui.org
+# 20 Visual Hierarchy
 
 ## Resume
 Dalam materi ini, mempelajari:
 1. Apa itu Visual Hierarchy
-2. ## Layout of Screen Elements
+2. Layout of Screen Elements
 3. The Basics of Visual Design
 
 ## Apa itu Visual Hierarchy
