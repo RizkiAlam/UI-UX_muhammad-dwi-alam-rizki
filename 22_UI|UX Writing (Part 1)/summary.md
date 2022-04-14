@@ -1,4 +1,4 @@
-# 14 Basic Principle
+# 22 UI/UX Writing (Part 1)
 
 ## Resume
 Dalam materi ini, mempelajari:
